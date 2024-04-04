@@ -9,27 +9,27 @@
 }
 .count-heading {
   color: #0f172a;
-  font-size: 48px;
+  font-size: 32px;
   font-family: 'Roboto';
   font-weight: 700;
 }
 .count-verdict {
   color: #334155;
-  font-size: 24px;
+  font-size: 20px;
   font-family: 'Roboto';
 }
 .increment-btn {
   background-color: #fff;
   color: #1e293b;
-  font-size: 16px;
+  font-size: 12px;
   font-family: 'Roboto';
   border: none;
-  border-radius: 10px;
-  padding: 10px 24px;
+  border-radius: 8px;
+  padding: 8px 32px;
   outline: none;
 }
 .note {
   color: #334155;
-  font-size: 13px;
+  font-size: 10px;
   font-family: 'Roboto';
 }
