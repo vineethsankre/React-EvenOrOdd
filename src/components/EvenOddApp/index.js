@@ -23,7 +23,7 @@ class EvenOddApp extends Component {
         >
           Increment
         </button>
-        <p className="note-text">Increase By Random Number Between 0 to 100</p>
+        <p className="note-text">*Increase By Random Number Between 0 to 100</p>
       </div>
     )
   }
