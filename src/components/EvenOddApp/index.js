@@ -6,7 +6,7 @@ class EvenOddApp extends Component {
 
   onIncrement = () => {
     const randomNum = Math.ceil(Math.random() * 100)
-    this.setState(prevState => ({count: randomNum}))
+    this.setState(prevState => ({count: prevState.count + randomNum}))
   }
 
   render() {
