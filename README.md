@@ -70,8 +70,6 @@ Use these files to complete the implementation:
 
 <br/>
 
-<div style="background-color: #ff6e7f ; width: 150px; padding: 10px; color: white">Hex: #ff6e7f</div>
-
 </details>
 
 
