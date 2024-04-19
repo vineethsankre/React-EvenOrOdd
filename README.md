@@ -74,7 +74,6 @@ Use these files to complete the implementation:
 <div style="background-color: #bfe9ff ; width: 150px; padding: 10px; color: black">Hex: #bfe9ff</div>
 <div style="background-color: #0f172a ; width: 150px; padding: 10px; color: white">Hex: #0f172a</div>
 <div style="background-color: #334155 ; width: 150px; padding: 10px; color: white">Hex: #334155</div>
-<div style="background-color: #ffffff ; width: 150px; padding: 10px; color: black">Hex: #ffffff</div>
 
 </details>
 
