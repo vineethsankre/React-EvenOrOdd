@@ -63,14 +63,6 @@ Use these files to complete the implementation:
 - Achieve the given layout using only Conditional Rendering
 </details>
 
-### Resources
-
-<details>
-<summary>Colors</summary>
-
-<br/>
-
-</details>
 
 
 
